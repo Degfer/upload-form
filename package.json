@@ -1,0 +1,24 @@
+{
+  "name": "upload-form",
+  "version": "1.0.0",
+  "description": "upload form for images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Degfer/upload-form.git"
+  },
+  "keywords": [],
+  "author": "LAR (Daniil)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Degfer/upload-form/issues"
+  },
+  "homepage": "https://github.com/Degfer/upload-form#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
